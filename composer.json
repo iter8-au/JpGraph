@@ -1,7 +1,7 @@
 {
-    "name": "jpgraph/jpgraph",
+    "name": "jbfulgencio/jpgraph",
     "type": "library",
-    "description": "jpGraph, library to make graphs and charts",
+    "description": "jpGraph, library to make graphs and charts - a fork from SaintPeter",
     "keywords": ["graph","chart","pie","jpgraph","data"],
     "homepage": "http://jpgraph.net/",
     "license": "QPL 1.0",
